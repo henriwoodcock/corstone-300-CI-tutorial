@@ -1,4 +1,4 @@
-#define NB_OF_CLASSES 3
+#define NB_OF_CLASSES 4 
 #define VECTOR_DIMENSION 2
 #define EPSILON 6.95566666666667e-10f
 
